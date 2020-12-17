@@ -11,3 +11,10 @@ Example usage in Program.cs focuses around encrypting state variables, but you c
 It will transform whatever byte array you choose (shellcode, decryption key, etc.) into C# code which will build the buffer at runtime with encryption/decryption keys based on the HashCash PoW algorithm.
 
 https://winternl.com/designing-emulation-resistant-control-flow/
+
+
+Additional Reading:
+
+https://www.crestcon.org/wp-content/uploads/2019/11/MattWixey.pdf
+
+http://www.hashcash.org/papers/hashcash.pdf
